@@ -2,6 +2,13 @@ Change Log
 ==========
 
 
+Version 2.10
+------------
+
+_2026-07-23_
+
+* Fix the `radiography` stoic-plugin launcher script when invoked via a symlink, e.g. from a Homebrew install ([#192](https://github.com/square/radiography/pull/192)).
+
 Version 2.9
 -----------
 
